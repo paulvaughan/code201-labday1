@@ -1,20 +1,20 @@
-body {
-  background-color: aqua;
-  color: beige;
-  font-family: 'Poppins', sans-serif;
-  text-align: center;
-}
-
-
 h1 {
-color: blue;
-}
-
-.lab {
   font-size: 100px;
+  color: black;
 }
 
 h2 {
-  color: rgb(151, 23, 44);
-  font-family: 'Coiny', cursive;
+  color: rgb(186, 12, 221);
+  font-family: 'Special Elite', cursive;
+}
+
+
+body {
+  background-color: aqua;
+  color: beige;
+  font-family: 'Special Elite', cursive;
+  text-align: center;
+  background-image: url(https://images.unsplash.com/photo-1518600654093-2a24cddafa38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2017&q=80);
+  background-position:  repeat center center fixed;
+  background-size: cover;
 }
