@@ -5,7 +5,8 @@ body {
   text-align: center;
 }
 
-div {
+
+h1 {
 color: blue;
 }
 
@@ -13,7 +14,7 @@ color: blue;
   font-size: 100px;
 }
 
-p {
+h2 {
   color: rgb(151, 23, 44);
   font-family: 'Coiny', cursive;
 }
