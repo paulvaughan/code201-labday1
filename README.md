@@ -12,5 +12,6 @@ From the repository root folder do the following to push changes to the remote r
 
 `` git add .
 git commit -m "commit message"
-git push
-``
+git push``
+
+``additional changes conducted to html and css code - font and background adjustments``git
