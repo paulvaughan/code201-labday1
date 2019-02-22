@@ -10,8 +10,8 @@
 
 From the repository root folder do the following to push changes to the remote repository
 
-`` git add .
-git commit -m "commit message"
+`` git add . ||
+git commit -m "commit message" ||
 git push``
 
-``additional changes conducted to html and css code - font and background adjustments``git
+- Additional changes conducted to html and css code - font and background adjustments
