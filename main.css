@@ -1,0 +1,19 @@
+body {
+  background-color: aqua;
+  color: beige;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+div {
+color: blue;
+}
+
+.lab {
+  font-size: 100px;
+}
+
+p {
+  color: rgb(151, 23, 44);
+  font-family: 'Coiny', cursive;
+}

@@ -1,0 +1,5 @@
+let yourName = prompt ('What is your name?')
+let favoriteChocolate = prompt ('What is your type of chocolate?')
+let favoriteFood = prompt ('What is your favorite food')
+confirm(`${yourName} your favorite type of chocolate is ${favoriteChocolate} and you love ${favoriteFood}`)
+console.log(`${yourName} your favorite type of chocolate is ${favoriteChocolate} and you love ${favoriteFood}`)
